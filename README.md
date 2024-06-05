@@ -23,7 +23,7 @@ This is a Spotify clone made using HTML5 and CSS.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://priyanshu-prime.github.io/Spotify-Clone/)
+- Live Site URL: [Spotify Home Page Clone](https://priyanshu-prime.github.io/Spotify-Clone/)
 
 ## My process
 
