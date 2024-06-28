@@ -2,8 +2,11 @@ let slide = document.getElementById("range");
 
 let time = document.getElementById("curr-time");
 
+update();
 
-slide.addEventListener("input", function()
+slide.addEventListener("input", update);
+
+function update()
 {
     let val = Math.floor((213/100)*slide.value);
     let sec = val%60;
@@ -13,4 +16,4 @@ slide.addEventListener("input", function()
     if (min < 10)
         min = '0' + min;
     time.innerText = `${min}:${sec}`;
-});
+}
