@@ -40,5 +40,5 @@ I learnt how the different elements of a webpage are combined and organized to m
 
 ## Author
 
-- Website - [Priyanshu Makwana](https://www.your-site.com)
-- Instagram - [@priyanshu_prime](https://www.twitter.com/yourusername)
+- LinkedIn - [Priyanshu Makwana](https://www.linkedin.com/in/priyanshu-makwana-277b93261/)
+- Instagram - [@priyanshu_prime](https://www.instagram.com/priyanshu_prime/)
